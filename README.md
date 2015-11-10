@@ -6,12 +6,12 @@ This is an example project that uses [Material-UI](http://callemall.github.io/ma
 After cloning the repository, install dependencies:
 ```
 cd <project folder>
-npm install
+script/bootstrap
 ```
 
 Now you can run your local server:
 ```
-npm start
+script/server
 ```
 #Description of [Gulp](https://github.com/gulpjs/gulp) Plugins
 
