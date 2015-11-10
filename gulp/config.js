@@ -1,5 +1,6 @@
 var dest = './build',
     src = './src',
+    www = './www',
     mui = './node_modules/material-ui/src';
 
 module.exports = {
@@ -14,7 +15,7 @@ module.exports = {
     ]
   },
   markup: {
-    src: src + "/www/**",
+    src: www + '/**',
     dest: dest
   },
   browserify: {
