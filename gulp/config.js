@@ -1,6 +1,6 @@
 var dest = './build',
-  src = './src',
-  mui = './node_modules/material-ui/src';
+    src = './src',
+    mui = './node_modules/material-ui/src';
 
 module.exports = {
   browserSync: {
