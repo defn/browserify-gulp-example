@@ -5,7 +5,7 @@ This is an example project that uses [Material-UI](http://callemall.github.io/ma
 ## Installation
 After cloning the repository, install dependencies:
 ```
-cd <project folder>/material-ui/examples/browserify-gulp-example
+cd <project folder>
 npm install
 ```
 
